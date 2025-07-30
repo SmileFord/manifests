@@ -27,7 +27,7 @@
   <project name="mixtile-sdk-linux-external-rockit_uvc" path="external/rockit_uvc" revision="rk3588-linux-6.1-rkr6"/>
   <project name="mixtile-sdk-linux-tools" path="tools" revision="rk3588-linux-6.1-rkr6" clone-depth="1"/>
   <project name="mixtile-sdk-rk-librkcrypto" path="external/security/librkcrypto" revision="rk3588-linux-6.1-rkr6"/>
-  <project name="mixtile-sdk-rk-kernel" path="kernel-6.1" revision="rk3588-linux-6.1-rkr6.1">
+  <project name="mixtile-sdk-rk-kernel" path="kernel-6.1" revision="rk3588-linux-6.1-rkr6">
     <linkfile src="." dest="kernel"/>
   </project>
   <project name="mixtile-sdk-rk-mpp" path="external/mpp" revision="rk3588-linux-6.1-rkr6"/>
