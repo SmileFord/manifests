@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mixtile-sdk-linux-debian" path="debian" revision="rk3588-linux-6.1-rkr6" clone-depth="1"/>
+  <project name="mixtile-sdk-linux-xserver" path="external/xserver" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-drm-cursor" path="external/drm-cursor" revision="rk3588-linux-6.1-rkr6"/>
+</manifest>

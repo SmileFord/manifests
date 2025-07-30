@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mixtile-sdk-linux-app-rkipc" path="app/rkipc" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-app-web-new-ipcweb-backend" path="app/ipcweb-backend" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-ipc-media-iva" path="external/iva" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-ipc-media-avs" path="external/avs" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-external-minilogger" path="external/minilogger" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-rkfsmk" path="external/rkfsmk" revision="rk3588-linux-6.1-rkr6"/>
+  <project name="mixtile-sdk-linux-ipc-media-samples" path="external/samples" revision="rk3588-linux-6.1-rkr6"/>
+</manifest>

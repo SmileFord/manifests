@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mixtile-sdk-linux-external-dpdk" path="external/dpdk" revision="rk3588-linux-6.1-rkr6"/>
+</manifest>
